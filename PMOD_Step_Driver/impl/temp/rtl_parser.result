@@ -1,0 +1,52 @@
+[
+ {
+  "InstFile" : "C:/myWorkspace/fpgaProjects/Stepper-Motor-Driver-Verilog/PMOD_Step_Driver/src/topModule.v",
+  "InstLine" : 3,
+  "InstName" : "topModule",
+  "ModuleFile" : "C:/myWorkspace/fpgaProjects/Stepper-Motor-Driver-Verilog/PMOD_Step_Driver/src/topModule.v",
+  "ModuleLine" : 3,
+  "ModuleName" : "topModule",
+  "SubInsts" : [
+   {
+    "InstFile" : "C:/myWorkspace/fpgaProjects/Stepper-Motor-Driver-Verilog/PMOD_Step_Driver/src/topModule.v",
+    "InstLine" : 69,
+    "InstName" : "aBtnMetastability",
+    "ModuleFile" : "C:/myWorkspace/fpgaProjects/Stepper-Motor-Driver-Verilog/PMOD_Step_Driver/src/button_metastability.v",
+    "ModuleLine" : 3,
+    "ModuleName" : "sig_stabilizer"
+   },
+   {
+    "InstFile" : "C:/myWorkspace/fpgaProjects/Stepper-Motor-Driver-Verilog/PMOD_Step_Driver/src/topModule.v",
+    "InstLine" : 76,
+    "InstName" : "bBtnMetastability",
+    "ModuleFile" : "C:/myWorkspace/fpgaProjects/Stepper-Motor-Driver-Verilog/PMOD_Step_Driver/src/button_metastability.v",
+    "ModuleLine" : 3,
+    "ModuleName" : "sig_stabilizer"
+   },
+   {
+    "InstFile" : "C:/myWorkspace/fpgaProjects/Stepper-Motor-Driver-Verilog/PMOD_Step_Driver/src/topModule.v",
+    "InstLine" : 83,
+    "InstName" : "mtClkDivier",
+    "ModuleFile" : "C:/myWorkspace/fpgaProjects/Stepper-Motor-Driver-Verilog/PMOD_Step_Driver/src/clk_div.v",
+    "ModuleLine" : 3,
+    "ModuleName" : "clk_div"
+   },
+   {
+    "InstFile" : "C:/myWorkspace/fpgaProjects/Stepper-Motor-Driver-Verilog/PMOD_Step_Driver/src/topModule.v",
+    "InstLine" : 91,
+    "InstName" : "clkDivider",
+    "ModuleFile" : "C:/myWorkspace/fpgaProjects/Stepper-Motor-Driver-Verilog/PMOD_Step_Driver/src/clk_div.v",
+    "ModuleLine" : 3,
+    "ModuleName" : "clk_div"
+   },
+   {
+    "InstFile" : "C:/myWorkspace/fpgaProjects/Stepper-Motor-Driver-Verilog/PMOD_Step_Driver/src/topModule.v",
+    "InstLine" : 99,
+    "InstName" : "myStep",
+    "ModuleFile" : "C:/myWorkspace/fpgaProjects/Stepper-Motor-Driver-Verilog/PMOD_Step_Driver/src/stepper_driver.v",
+    "ModuleLine" : 3,
+    "ModuleName" : "stepper_driver"
+   }
+  ]
+ }
+]

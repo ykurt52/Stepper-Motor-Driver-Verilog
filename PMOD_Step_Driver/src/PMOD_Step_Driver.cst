@@ -1,0 +1,28 @@
+//Copyright (C)2014-2022 Gowin Semiconductor Corporation.
+//All rights reserved. 
+//File Title: Physical Constraints file
+//GOWIN Version: 1.9.8.09
+//Part Number: GW1N-LV1QN48C6/I5
+//Device: GW1N-1
+//Created Time: Sun 12 18 19:36:03 2022
+
+IO_LOC "o_Motor[3]" 41;
+IO_PORT "o_Motor[3]" IO_TYPE=LVCMOS33 PULL_MODE=UP DRIVE=8;
+IO_LOC "o_Motor[2]" 40;
+IO_PORT "o_Motor[2]" IO_TYPE=LVCMOS33 PULL_MODE=UP DRIVE=8;
+IO_LOC "o_Motor[1]" 39;
+IO_PORT "o_Motor[1]" IO_TYPE=LVCMOS33 PULL_MODE=UP DRIVE=8;
+IO_LOC "o_Motor[0]" 38;
+IO_PORT "o_Motor[0]" IO_TYPE=LVCMOS33 PULL_MODE=UP DRIVE=8;
+IO_LOC "o_LED[2]" 18;
+IO_PORT "o_LED[2]" IO_TYPE=LVCMOS33 PULL_MODE=UP DRIVE=8;
+IO_LOC "o_LED[1]" 17;
+IO_PORT "o_LED[1]" IO_TYPE=LVCMOS33 PULL_MODE=UP DRIVE=8;
+IO_LOC "o_LED[0]" 16;
+IO_PORT "o_LED[0]" IO_TYPE=LVCMOS33 PULL_MODE=UP DRIVE=8;
+IO_LOC "b_Button" 14;
+IO_PORT "b_Button" IO_TYPE=LVCMOS33 PULL_MODE=UP;
+IO_LOC "a_Button" 15;
+IO_PORT "a_Button" IO_TYPE=LVCMOS33 PULL_MODE=UP;
+IO_LOC "CLK" 35;
+IO_PORT "CLK" PULL_MODE=UP;

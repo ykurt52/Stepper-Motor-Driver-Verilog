@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Module name="topModule" Register="28" Alu="20" Lut="4">
+    <SubModule name="aBtnMetastability" Register="22" Lut="41"/>
+    <SubModule name="bBtnMetastability" Register="22" Lut="41"/>
+    <SubModule name="clkDivider" Register="29" Alu="27" Lut="18"/>
+    <SubModule name="myStep" Register="7" Lut="9"/>
+</Module>

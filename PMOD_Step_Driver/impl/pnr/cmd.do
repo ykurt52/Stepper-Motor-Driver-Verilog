@@ -1,0 +1,11 @@
+-d C:\myWorkspace\fpgaProjects\Stepper-Motor-Driver-Verilog\PMOD_Step_Driver\impl\gwsynthesis\PMOD_Step_Driver.vg
+-p GW1N-1-QFN48-6
+-pn GW1N-LV1QN48C6/I5
+-cst C:\myWorkspace\fpgaProjects\Stepper-Motor-Driver-Verilog\PMOD_Step_Driver\src\PMOD_Step_Driver.cst
+-cfg C:\myWorkspace\fpgaProjects\Stepper-Motor-Driver-Verilog\PMOD_Step_Driver\impl\pnr\device.cfg
+-bit
+-tr
+-ph
+-timing
+-cst_error
+-route_maxfan 23
